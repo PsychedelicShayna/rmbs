@@ -1,7 +1,21 @@
 [package]
 name = "rmbs"
-version = "0.1.0"
+version = "1.2.0"
 edition = "2021"
+description = "Remove any fluff, corporate speak, or other bullshit from input text and print the TL;DR essence of what's being said, using the www.bullshitremover.com public LLM API"
+license-file = "LICENSE"
+readme = "README.md"
+
+exclude = [
+  ".github",
+  "target"
+]
+
+repository = "https://github.com/PsychedelicShayna/rmbs"
+homepage = "https://www.bullshitremover.com/"
+
+categories = ["command-line-utilities", "text-processing"]
+keywords = ["text", "summarize", "condense", "llm", "ai"]
 
 [dependencies]
 anyhow = "1.0.89"
