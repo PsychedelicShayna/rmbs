@@ -2,6 +2,8 @@
 
 Utilizes the [Bullshit Remover](https://www.bullshitremover.com/) API to remove bullshit from input text, right from your terminal!
 
+Note: I am not the author of the website, I just created a different way to interact with the same LLM. Send credit their way!
+
 Basically, it's a public LLM that filters input text, removing any sort of fluff, corporate PR speak, or anything else redundant, and returns the condensed essence of what the input text is trying to say.
 
 Text can be piped to `rmbs`, or provided as an argument. You can use `--quiet | -q` to suppress the progress animation. 
