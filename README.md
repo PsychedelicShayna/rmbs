@@ -2,7 +2,7 @@
 
 Utilizes the [Bullshit Remover](https://www.bullshitremover.com/) API to remove bullshit from input text, right from your terminal!
 
-Note: I am not the author of the website, I just created a different way to interact with the same LLM. Send credit their way!
+Note: I am not the author of the website, I just created a different way to interact with the same LLM. Send credit their way, and maybe [buy them a coffee!](https://buymeacoffee.com/adrian.dziegielewski)
 
 Basically, it's a public LLM that filters input text, removing any sort of fluff, corporate PR speak, or anything else redundant, and returns the condensed essence of what the input text is trying to say.
 
