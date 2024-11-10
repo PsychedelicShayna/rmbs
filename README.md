@@ -8,7 +8,7 @@ Basically, it's a public LLM that filters input text, removing any sort of fluff
 
 Text can be piped to `rmbs`, or provided as an argument. You can use `--quiet | -q` to suppress the progress animation. 
 
-The `ped` utility in the second demo is just a simple bash script that creates a temporary file, opens it in your editor of choice, then pipes its contents to the specified program before deleting the temporary file. That's why no `|` pipe symbol is present, but rest assured, it's being piped.
+The `epd` (formerly `ped`) utility in the second demo is just a simple bash script that creates a temporary file, opens it in your editor of choice, then pipes its contents to the specified program before deleting the temporary file. That's why no `|` pipe symbol is present, but rest assured, it's being piped.
 
 https://github.com/user-attachments/assets/3388a661-fb6e-4527-8491-c8cd9f0c2124
 
